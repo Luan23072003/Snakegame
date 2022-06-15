@@ -1,0 +1,249 @@
+# depslib dependency file v1.0
+1652686510 source:c:\users\nghuy\onedrive\máy tính\conran\main.cpp
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	"Map.h"
+	"ConRan.h"
+	"DieuKhien.h"
+	"ThucAn.h"
+	"XuLyTrongGame.h"
+	"Menu.h"
+
+1652519893 c:\users\nghuy\onedrive\máy tính\conran\map.h
+	<graphics.h>
+	<stdio.h>
+	"ConRan.h"
+
+1650905495 c:\users\nghuy\onedrive\máy tính\conran\conran.h
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+
+1650867185 c:\users\nghuy\onedrive\máy tính\conran\dieukhien.h
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1652519399 c:\users\nghuy\onedrive\máy tính\conran\thucan.h
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1650875396 c:\users\nghuy\onedrive\máy tính\conran\xulyketthucgame.h
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+
+1652688990 c:\users\nghuy\onedrive\máy tính\conran\xulytronggame.h
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
+1652689847 c:\users\nghuy\onedrive\máy tính\conran\menu.h
+	<graphics.h>
+
+1653298780 source:c:\users\nghuy\onedrive\máy tính\conran (1)\main.cpp
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	"Map.h"
+	"ConRan.h"
+	"DieuKhien.h"
+	"ThucAn.h"
+	"XuLyTrongGame.h"
+	"Menu.h"
+	"BangDiem.h"
+
+1653272215 c:\users\nghuy\onedrive\máy tính\conran (1)\map.h
+	<graphics.h>
+	<stdio.h>
+	"ConRan.h"
+
+1653285330 c:\users\nghuy\onedrive\máy tính\conran (1)\conran.h
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+
+1653148133 c:\users\nghuy\onedrive\máy tính\conran (1)\dieukhien.h
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1653179001 c:\users\nghuy\onedrive\máy tính\conran (1)\thucan.h
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1653130565 c:\users\nghuy\onedrive\máy tính\conran (1)\xulytronggame.h
+
+1653298786 c:\users\nghuy\onedrive\máy tính\conran (1)\menu.h
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	"InGame.h"
+
+1653299265 c:\users\nghuy\onedrive\máy tính\conran (1)\ingame.h
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	"Menu.h"
+	"ThucAn.h"
+	"BangDiem.h"
+
+1653298373 c:\users\nghuy\onedrive\máy tính\conran (1)\bangdiem.h
+	<graphics.h>
+	"Menu.h"
+	<conio.h>
+
+1653372638 source:c:\users\nghuy\onedrive\máy tính\ransanmoi\main.cpp
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	"Map.h"
+	"ConRan.h"
+	"DieuKhien.h"
+	"ThucAn.h"
+	"Menu.h"
+	"BangDiem.h"
+
+1653373229 c:\users\nghuy\onedrive\máy tính\ransanmoi\map.h
+	<graphics.h>
+	<stdio.h>
+	"ConRan.h"
+
+1653374319 c:\users\nghuy\onedrive\máy tính\ransanmoi\conran.h
+	<graphics.h>
+	<windows.h>
+	<stdio.h>
+
+1653365830 c:\users\nghuy\onedrive\máy tính\ransanmoi\dieukhien.h
+	<graphics.h>
+	<windows.h>
+
+1653373321 c:\users\nghuy\onedrive\máy tính\ransanmoi\thucan.h
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"ConRan.h"
+
+1653372903 c:\users\nghuy\onedrive\máy tính\ransanmoi\menu.h
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	"InGame.h"
+
+1653375471 c:\users\nghuy\onedrive\máy tính\ransanmoi\ingame.h
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	"Menu.h"
+	"ThucAn.h"
+	"BangDiem.h"
+
+1653374168 c:\users\nghuy\onedrive\máy tính\ransanmoi\bangdiem.h
+	<graphics.h>
+	"Menu.h"
+	<conio.h>
+
+1653130565 c:\users\nghuy\onedrive\máy tính\ransanmoi\xulytronggame.h
+
+1653372638 source:c:\users\nguye\onedrive\máy tính\code\ransanmoi\main.cpp
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	"Map.h"
+	"ConRan.h"
+	"DieuKhien.h"
+	"ThucAn.h"
+	"Menu.h"
+	"BangDiem.h"
+
+1653373229 c:\users\nguye\onedrive\máy tính\code\ransanmoi\map.h
+	<graphics.h>
+	<stdio.h>
+	"ConRan.h"
+
+1653374319 c:\users\nguye\onedrive\máy tính\code\ransanmoi\conran.h
+	<graphics.h>
+	<windows.h>
+	<stdio.h>
+
+1653365830 c:\users\nguye\onedrive\máy tính\code\ransanmoi\dieukhien.h
+	<graphics.h>
+	<windows.h>
+
+1653373321 c:\users\nguye\onedrive\máy tính\code\ransanmoi\thucan.h
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"ConRan.h"
+
+1653372903 c:\users\nguye\onedrive\máy tính\code\ransanmoi\menu.h
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	"InGame.h"
+
+1655257031 c:\users\nguye\onedrive\máy tính\code\ransanmoi\ingame.h
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	"Menu.h"
+	"ThucAn.h"
+	"BangDiem.h"
+
+1653374168 c:\users\nguye\onedrive\máy tính\code\ransanmoi\bangdiem.h
+	<graphics.h>
+	"Menu.h"
+	<conio.h>
+
